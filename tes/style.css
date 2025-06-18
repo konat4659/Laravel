@@ -1,0 +1,11 @@
+.youtube:hover {
+    color:  rgb(183, 25, 25);
+    opacity: .3;
+
+}
+
+.hero {
+ border: 10px dotted #333;
+ background-color: aqua;
+
+}
